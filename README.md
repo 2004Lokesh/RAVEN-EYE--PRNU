@@ -27,4 +27,4 @@ The pipeline is divided into the following core modules:
 * Expanded Format Support: Enhancing the system's resilience against heavily compressed images and social media scrubbing.
 
 # Contact
-Lokesh - @https://www.linkedin.com/in/lokeshsaravanan/ -@https://www.instagram.com/n__e__r___d
+Lokesh - @https://www.linkedin.com/in/lokeshsaravanan/ -@https://www.instagram.com/n__e__r___d  @https://lokesh-saravanan-cybersecurity-portfolio.ai.studio/
